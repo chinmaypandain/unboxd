@@ -1,0 +1,34 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "HowTo", 
+  "name": "How to sell online?",
+  "description": "This tutorial tells the step by step procedure to start selling through Unboxd Marketplace",
+  "image": "https://unboxd.in/documents/121837/0/Screenshot+2020-02-21+at+3.11.32+AM.png/f754a07e-239f-2637-10ac-e844f4b39c18?t=1582235508760",
+  "step": [{
+    "@type": "HowToStep",
+    "text": "Set up your social accounts",
+    "image": "https://unboxd.in/documents/121837/0/Social+Setup.png/89435f7a-99be-d153-ab3d-b44b6a3968c0?t=1582236294331",
+    "name": "Set up social",
+    "url": "https://unboxd.in/web/mart/sellers"
+  },{
+    "@type": "HowToStep",
+    "text": "Set up your store policies",
+    "image": "https://unboxd.in/documents/121837/0/Social+Setup.png/89435f7a-99be-d153-ab3d-b44b6a3968c0?t=1582236294331",
+    "name": "Set up store policies",
+    "url": "https://unboxd.in/web/mart/sellers"
+  },{
+    "@type": "HowToStep",
+    "text": "Set up payments",
+    "image": "https://unboxd.in/documents/121837/0/Payment+Setup.png/62addf93-3706-f86e-c2f8-931a2e2325e4?t=1582236131574",
+    "name": "Set up payments",
+    "url": "https://unboxd.in/web/mart/sellers"
+  },{
+    "@type": "HowToStep",
+    "text": "We are done",
+    "image": "https://unboxd.in/documents/121837/0/We+Are+Done.png/2ace7d91-96cb-1913-7f27-6ee9381e291d?t=1582236331410",
+    "name": "We are done",
+    "url": "https://unboxd.in/web/mart/sellers"
+  }]    
+}
+</script>
